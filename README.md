@@ -3,8 +3,9 @@
 
 
 - 🔭 Dev FullStack formado pela [Kenzie Academy Brasil](https://www.linkedin.com/school/kenzie-brasil).
-- 🔖 Estudante de Análise e Desenvolvimento de Sistemas && Engenharia Elétrica.
-- 🌱 Atualmente me aperfeiçoando em JAVA back-end .
+- 🔖 Formado em TI.
+- Segunda graduação em Sistemas de Informação.
+- 🌱 Atualmente me aperfeiçoando em JAVA.
 
 **Meu linkedin**
  
